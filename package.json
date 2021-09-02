@@ -1,0 +1,18 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "Personal Website for Zachary Huang.   Uses augmented-ui: whttps://github.com/propjockey/augmented-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "personal_website"
+  },
+  "author": "zch",
+  "license": "ISC",
+  "dependencies": {
+    "augmented-ui": "^2.0.0"
+  }
+}
