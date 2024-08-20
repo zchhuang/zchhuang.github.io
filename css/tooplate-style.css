@@ -67,12 +67,17 @@ h4 {
   font-size: 20px;
 }
 
+h5 {
+  color: #353535;
+  font-size: 16px;
+}
+
 h6 {
   margin: 2px 2px;
 }
 
 p {
-  color: #696969;
+  color: #8c8c8c;
   font-size: 16px;
   font-weight: normal;
   line-height: 25px;
@@ -157,15 +162,14 @@ a:hover, a:active, a:focus {
   padding-bottom: 32px;
 }
 
-#service, #about, #work,
-#contact, footer {
+#service, #about, #work, #contact, footer {
   position: relative;
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
 
 #about, #contact {
-  background: #f0f7ff;
+  background: #d7e0eb ;
 }
 
 
@@ -446,6 +450,14 @@ a.btn-custom{
 .about-thumb p {
   padding: 2px 0;
 }
+
+.education{
+  margin:0;
+	position:relative;
+  border:solid 1px #B6B6B6;
+  padding:25px;
+}
+
 .timeline-block .section-header{
 	margin-bottom:80px;
 }
