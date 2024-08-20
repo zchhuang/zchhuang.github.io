@@ -162,10 +162,16 @@ a:hover, a:active, a:focus {
   padding-bottom: 32px;
 }
 
-#service, #about, #work, #contact, footer {
+#service, #about, #work, #contact {
   position: relative;
   padding-top: 70px;
   padding-bottom: 70px;
+}
+
+footer {
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #about, #contact {
@@ -622,7 +628,7 @@ a.btn-custom{
 footer {
   background: #2b2b2b;
   text-align: center;
-  padding: 120px 0;
+  padding: 70px 0;
 }
 
 footer p {
